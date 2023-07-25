@@ -25,7 +25,7 @@ To get the final output of the Random Jokes App, follow these step-by-step instr
    ```
    cd random-jokes-app
    ```
-
+    Replace the src folder in your project directory with the one that I have provided
 4. Install Required Dependencies:
     Install the necessary dependencies used in the app by running:
    ```
